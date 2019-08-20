@@ -2,7 +2,7 @@
 #include <Windows.h>
 int main() {
 	char x[] = "attttt";
-	printf("%s\n",x[4]);
+	printf("%s\n",x);
 
 	system("pause");
 	return 0;
